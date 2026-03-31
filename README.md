@@ -6,8 +6,8 @@ This analysis aims to explore these challenges by examining sales trends, custom
 
 # Data Structure
 The dataset contains details of 100,000 orders spanning from 2016 to 2018. The schema is shown below : 
-![alt text](Schema.svg)
 
+![alt text](Schema.svg)
 # Executive Summary
 We focused on the following KPIs:
 - **Sales Performance** : The value purchase of the customers and revenue growth over 2017 and 2018. Further analysis is segmented by product category and customer state
