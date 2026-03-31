@@ -41,5 +41,6 @@ We focused on the following KPIs:
 The interactive Power BI Dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiNmQ1YmQ2ZjMtNWEwMS00MjhiLWI2M2QtODJlMzdiN2M4MzRlIiwidCI6IjQ3ZDY2NGIzLWQ5ZjctNDM3NC1iMmFkLWU1ZTI5NjA3ZjIwYSJ9) 
 
 ![alt text](Dashboard.jpg)
+
 # Data Source
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
