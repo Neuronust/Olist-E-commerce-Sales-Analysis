@@ -7,7 +7,7 @@ This analysis aims to explore these challenges by examining sales trends, custom
 # Data Structure
 The dataset contains details of 100,000 orders spanning from 2016 to 2018. The schema is shown below : 
 
-![alt text](Schema.svg)
+<img width="1246" height="1001" alt="Schema" src="https://github.com/user-attachments/assets/e33091c2-8a8b-4372-b3f7-aa7e825c10f8" />
 # Executive Summary
 We focused on the following KPIs:
 - **Sales Performance** : The value purchase of the customers and revenue growth over 2017 and 2018. Further analysis is segmented by product category and customer state
@@ -40,7 +40,7 @@ We focused on the following KPIs:
 # Dashboard
 The interactive Power BI Dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiNmQ1YmQ2ZjMtNWEwMS00MjhiLWI2M2QtODJlMzdiN2M4MzRlIiwidCI6IjQ3ZDY2NGIzLWQ5ZjctNDM3NC1iMmFkLWU1ZTI5NjA3ZjIwYSJ9) 
 
-![alt text](Dashboard.jpg)
+![Dashboard](https://github.com/user-attachments/assets/e0e08355-a60c-447a-8a91-bc2e3f491e1f)
 
 # Data Source
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
