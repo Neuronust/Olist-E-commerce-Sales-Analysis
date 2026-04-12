@@ -39,9 +39,10 @@ We focused on the following KPIs:
 - Categories like **bed bath & table** show high sales but relatively lower ratings. **Investigate product quality, descriptions, and customer expectations to improve satisfaction**.
 - Early deliveries achieve the highest ratings (4.29), highlighting the importance of faster delivery. **Improve logistics efficiency and provide more accurate delivery estimates to align with customer expectations**.
 # Dashboard
-The interactive Power BI Dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiNmQ1YmQ2ZjMtNWEwMS00MjhiLWI2M2QtODJlMzdiN2M4MzRlIiwidCI6IjQ3ZDY2NGIzLWQ5ZjctNDM3NC1iMmFkLWU1ZTI5NjA3ZjIwYSJ9) 
+The interactive Power BI Dashboard can be found [here](https://app.powerbi.com/view?r=eyJrIjoiY2VmOGZkODQtMWVjZC00OGMzLTgyZDEtNGEzMGE4YWY1ZWMyIiwidCI6IjQ3ZDY2NGIzLWQ5ZjctNDM3NC1iMmFkLWU1ZTI5NjA3ZjIwYSJ9) 
 
-![Dashboard](https://github.com/user-attachments/assets/e0e08355-a60c-447a-8a91-bc2e3f491e1f)
+<img width="934" height="520" alt="image" src="https://github.com/user-attachments/assets/e56a4986-ef21-4f24-9e98-426f43154223" />
+
 
 # Data Source
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
